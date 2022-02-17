@@ -436,6 +436,12 @@ h2 {
     height: 132px;
 }
 
+.buy__paragraph{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
 
 /*footer*/
 .footer {
