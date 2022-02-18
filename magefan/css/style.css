@@ -529,6 +529,9 @@ h2 {
     .introduction {
         margin-top: 10px;
     }
+    .introduction__paragraph{
+        height: 25vh;
+    }
 
     /*essential*/
     .essential {
@@ -581,7 +584,7 @@ h2 {
 
     .why__paragraph {
         text-align: center;
-        width: 80vw;
+        width: 90vw;
         height: 25vh;
     }
 
